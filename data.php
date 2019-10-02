@@ -1,5 +1,6 @@
 <?php
 
-echo "ahoj";
+echo "ahoj <br>";
 
+echo "ukazes ?";
 ?>
