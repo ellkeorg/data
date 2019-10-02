@@ -2,6 +2,6 @@
 
 echo "ahoj <br>";
 
-echo "ukazes ?";
+echo "ukazes ? A: NO";
 
 ?>
